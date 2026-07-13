@@ -17,5 +17,5 @@ A: I would like to keep the source code private for now. If this mod becomes mor
 Q: Why does it take so long for an update?<br>
 A: If an update takes longer, I might be busy with personal stuff, school, or something else. Please note that I am a student working on this, and I do not always have the time to do so.
 
-Q: How do I know you won't take down my fan-made project?
+Q: How do I know you won't take down my fan-made project?<br>
 A: The takedown clause states that I can remove any modification of this mod when I want, however, It will only be enforced when I suspect a heavy misuse.
